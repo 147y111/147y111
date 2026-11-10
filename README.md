@@ -25,30 +25,36 @@ I am also a co-founder and the **Mechanical Engineering Lead of Alba Studio**, a
 <table>
   <tr>
     <td width="50%" valign="top">
+      <p align="center"><a href="https://github.com/147y111/Automatic-Cat-Feeder"><img src="assets/automatic-cat-feeder-card.svg" alt="Automatic Cat Feeder operating concept" height="180"></a></p>
       <h3>🐾 <a href="https://github.com/147y111/Automatic-Cat-Feeder">Automatic Cat Feeder</a></h3>
       Created a 40-instance CAD assembly, fabricated and assembled the structure, and redesigned the food outlet after diagnosing dispensing jams.
     </td>
     <td width="50%" valign="top">
+      <p align="center"><a href="https://github.com/147y111/ESP32-MewGlow"><img src="assets/mewglow-hardware.png" alt="Completed ESP32 MewGlow prototype" height="180"></a></p>
       <h3>🐱 <a href="https://github.com/147y111/ESP32-MewGlow">ESP32 MewGlow</a></h3>
       Developed an expressive mobile cat companion using an ESP32, LEDs, a TFT display, sensors, motors, and a SwiftUI control app.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <p align="center"><a href="https://github.com/147y111/piezoelectric-floor-tile"><img src="assets/piezoelectric-floor-tile.jpg" alt="Assembled piezoelectric floor-tile mechanism" height="180"></a></p>
       <h3>⚡ <a href="https://github.com/147y111/piezoelectric-floor-tile">Piezoelectric Floor Tile</a></h3>
       Helped build and test an energy-harvesting floor tile, recorded stepping data, contributed to CAD, and supported physical-model calibration.
     </td>
     <td width="50%" valign="top">
+      <p align="center"><a href="https://github.com/147y111/Spendly"><img src="assets/spendly-poster.png" alt="Spendly project poster and interface overview" height="180"></a></p>
       <h3>💜 <a href="https://github.com/147y111/Spendly">Spendly</a></h3>
       Built a SwiftUI personal-finance app with transaction entry, category management, data visualization, and an interface designed in Figma.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <p align="center"><a href="https://github.com/147y111/Reaction-Time-Game"><img src="assets/reaction-time-game.jpg" alt="Arduino Reaction Time Game prototype" height="180"></a></p>
       <h3>🎮 <a href="https://github.com/147y111/Reaction-Time-Game">Reaction Time Game</a></h3>
       Co-developed an Arduino game through circuit assembly, wiring, physical integration, debugging, and iterative difficulty improvements.
     </td>
     <td width="50%" valign="top">
+      <p align="center"><a href="https://github.com/147y111/Movable-Type-Music-Visualization"><img src="assets/movable-type-card.svg" alt="Sixteen-column movable-type music visualization concept" height="180"></a></p>
       <h3>🎵 <a href="https://github.com/147y111/Movable-Type-Music-Visualization">Music Visualization</a></h3>
       Converted audio into MIDI and CSV data and mapped pitch, velocity, and timing across a planned 16-column kinetic display.
     </td>

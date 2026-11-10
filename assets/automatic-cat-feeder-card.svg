@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-labelledby="title desc">
+  <title id="title">Automatic Cat Feeder mechanism</title>
+  <desc id="desc">A simplified engineering diagram showing food moving from storage through a motorized dispenser into a feeding bowl.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#211d38"/>
+      <stop offset="1" stop-color="#123743"/>
+    </linearGradient>
+    <linearGradient id="food" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#f7c873"/>
+      <stop offset="1" stop-color="#d58b48"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="420" rx="28" fill="url(#bg)"/>
+  <text x="42" y="60" fill="#eeeaff" font-family="Arial, sans-serif" font-size="30" font-weight="700">AUTOMATIC CAT FEEDER</text>
+  <text x="42" y="92" fill="#9ed9d2" font-family="Arial, sans-serif" font-size="17">storage → controlled outlet → dispensing tray</text>
+  <path d="M110 125h230l-25 130H135z" fill="#8d7ee8" stroke="#c9c0ff" stroke-width="5"/>
+  <path d="M170 150h112l-13 75h-86z" fill="url(#food)"/>
+  <rect x="205" y="255" width="40" height="36" rx="5" fill="#d9d4ff"/>
+  <rect x="156" y="291" width="138" height="55" rx="15" fill="#5db7ab" stroke="#a4eee4" stroke-width="5"/>
+  <circle cx="225" cy="318" r="16" fill="#1b2636" stroke="#fff" stroke-width="4"/>
+  <path d="M294 318h158" stroke="#f7c873" stroke-width="18" stroke-linecap="round" stroke-dasharray="12 18"/>
+  <path d="M450 285l105 86" stroke="#d9d4ff" stroke-width="18" stroke-linecap="round"/>
+  <path d="M530 350h190c-7 45-40 55-95 55s-88-10-95-55z" fill="#8d7ee8" stroke="#c9c0ff" stroke-width="5"/>
+  <circle cx="585" cy="340" r="10" fill="#f7c873"/>
+  <circle cx="620" cy="347" r="10" fill="#f7c873"/>
+  <circle cx="655" cy="339" r="10" fill="#f7c873"/>
+  <text x="108" y="382" fill="#ddd8f8" font-family="Arial, sans-serif" font-size="16">40-instance CAD assembly · fabricated prototype · iterative food-flow redesign</text>
+</svg>
